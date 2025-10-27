@@ -24,4 +24,5 @@ client.on('interactionCreate', async (interaction) => {
   }
 });
 
-client.login('MTQzMjM1NzIwMjMxMTY0NzQwOA.GbksVv.MATgat52IwwDKbwxeP8Zm3WEP7XWhvwmvO56JQ');
+client.login('Upload Your Discord Bot Token');
+
