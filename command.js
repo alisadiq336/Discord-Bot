@@ -11,8 +11,8 @@ const commands = [
   },
 ];
 
-const TOKEN = 'MTQzMjM1NzIwMjMxMTY0NzQwOA.GbksVv.MATgat52IwwDKbwxeP8Zm3WEP7XWhvwmvO56JQ';
-const CLIENT_ID = '1432357202311647408';
+const TOKEN = 'Upload Your Discord Bot Token';
+const CLIENT_ID = 'Upload Your Discord Bot ID';
 
 const rest = new REST({ version: '10' }).setToken(TOKEN);
 
@@ -25,3 +25,4 @@ const rest = new REST({ version: '10' }).setToken(TOKEN);
     console.error(error);
   }
 })();
+
